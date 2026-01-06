@@ -7,6 +7,7 @@ import HowItWorks from "@/components/home-page/home-10/HowItWorks";
 import BrandStory from "@/components/home-page/home-10/BrandStory";
 import ComplianceStrip from "@/components/home-page/home-10/ComplianceStrip";
 import FinalCTAStrip from "@/components/home-page/home-10/FinalCTAStrip"
+import OurPartners from "@/components/home-page/home-10/OurPartners";
 
 import Footer from "@/components/home-page/home-10/Footer";
 import TestimonialLarge from "@/components/home-page/home-10/TestimonialLarge";
@@ -62,6 +63,13 @@ const AgencyModern = () => {
       </div>
       {/* /.fancy-feature-two */}
 
+       {/* 
+			=============================================
+				Our Partners Section
+			============================================== 
+			*/}
+      <OurPartners />
+
       {/*
 			=====================================================
 				Feedback Section One
@@ -89,6 +97,9 @@ const AgencyModern = () => {
       </div>
        <ComplianceStrip/>
       {/* /.feedback-section-one */}
+
+       
+
 
       {/* 
 			=============================================

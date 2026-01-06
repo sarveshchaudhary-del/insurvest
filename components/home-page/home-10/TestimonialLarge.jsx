@@ -55,17 +55,17 @@ const TestimonialLarge = () => {
         <div className="carousel-item text-center">
           <img
             className="rounded-circle shadow-1-strong mb-4"
-             src="/images/icon/clientTesti_01.jpg"
+             src="/images/icon/surab.c1fc64f7.jpeg"
             alt="avatar"
-            style={{ width: '150px', margin:'auto' }}
+            style={{ width: '150px', margin:'auto', height: '145px' }}
           />
           <div className="row d-flex justify-content-center">
             <div className="col-lg-12">
-              <h5 className="mb-3">R. Verma,Delhi</h5>
+              <h5 className="mb-3">Saurabh Nigam</h5>
               {/* <p>Photographer</p> */}
               <p className="text-muted">
                 <i className="fas fa-quote-left pe-2"></i>
-                I got the best advice on term insurance and saved over ₹12,000 annually.
+                 It was a fantastic experience for me throughout. The team is having quite a lot of learned professionals. They suggest the best optimum plans as per individual needs with the lowest premiums and round-the-clock service. 
                 </p>
              
             </div>
@@ -81,17 +81,18 @@ const TestimonialLarge = () => {
         <div className="carousel-item">
           <img
             className="rounded-circle shadow-1-strong mb-4"
-             src="/images/icon/clientTesti_01.jpg"
+             src="/images/icon/parikshit.e8d3a034.jpeg"
             alt="avatar"
-            style={{ width: '150px', margin:'auto' }}
+            style={{ width: '150px', margin:'auto', height: '145px'  }}
           />
           <div className="row d-flex justify-content-center">
             <div className="col-lg-12">
-              <h5 className="mb-3">A. Kapoor, Pune</h5>
+              <h5 className="mb-3">Dr.Parikshit Bhalerao, Mumbai.</h5>
               {/* <p>Photographer</p> */}
               <p className="text-muted">
                 <i className="fas fa-quote-left pe-2"></i>
-                My investments are finally aligned to my goals, thanks to InsurVest!
+                 The team at epolicymart has helped me understand the nuances of various products and help me make an informed decision in selecting different insurance products.
+They have been a great support by providing prompt service in times of my need.I highly recommend epolicymart as the choice of provider of all your insurance needs.Thank you for your guidance & support. 
                 </p>
              
             </div>
@@ -104,31 +105,7 @@ const TestimonialLarge = () => {
             <li><i className="fas fa-star fa-sm"></i></li>
           </ul>
         </div>
-        <div className="carousel-item">
-          <img
-            className="rounded-circle shadow-1-strong mb-4"
-            src="/images/icon/clientTesti_01.jpg"
-            alt="avatar"
-            style={{ width: '150px', margin:'auto' }}
-          />
-          <div className="row d-flex justify-content-center">
-            <div className="col-lg-12">
-              <h5 className="mb-3">N. Sharma, Jaipur</h5>
-              {/* <p>Photographer</p> */}
-              <p className="text-muted">
-                <i className="fas fa-quote-left pe-2"></i>
-                Their claim assistance during a medical emergency was a lifesaver.</p>
-             
-            </div>
-          </div>
-          <ul className="list-unstyled d-flex justify-content-center text-warning mb-0">
-            <li><i className="fas fa-star fa-sm"></i></li>
-            <li><i className="fas fa-star fa-sm"></i></li>
-            <li><i className="fas fa-star fa-sm"></i></li>
-            <li><i className="fas fa-star fa-sm"></i></li>
-            <li><i className="fas fa-star fa-sm"></i></li>
-          </ul>
-        </div>
+        
        
         </Slider>
       </div>
